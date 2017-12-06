@@ -1,4 +1,7 @@
-<ul>
+<ul> {
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
   <li><a href="index.html">Home</a></li>
   <li><a href="Hobbies.htm">Hobbies</a></li>
   <li><a href="Favorite Food.htm">Favorite Food</a></li>
