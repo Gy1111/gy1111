@@ -27,7 +27,11 @@ body {
 
 
 /* Side navigation links */
-.sidenav a {
+.sidenav
+  <a href="Hobbies.htm">Link</a>
+  <a href="Favorite Food.htm"></a>
+  <a href="">Favorite TV Shows</a>
+  <a href="Arsenal.htm">Link</a>
     color: white;
     padding: 16px;
     text-decoration: none;
@@ -51,7 +55,7 @@ body {
 
 <div class="sidenav">
   <a href="Hobbies.htm">Link</a>
-  <a href="#">Favorite Food.htm</a>
+  <a href="Favorite Food.htm"></a>
   <a href="">Favorite TV Shows</a>
   <a href="Arsenal.htm">Link</a>
 </div>
