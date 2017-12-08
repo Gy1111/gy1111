@@ -1,6 +1,9 @@
 body
 h1 {
 font-family: Arial sans-serif;
-    color white;
+    color: white;
     border-bottom: 2px solid blue;
 }
+
+p
+{color: red;}
