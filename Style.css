@@ -8,7 +8,14 @@ font-family: Arial sans-serif;
     border-bottom: 2px solid blue;
 }
 
+h2 {
+    font-family: Arial sans-serif;
+    color: blue;
+    border-bottom: 2px solid white;
+}
+
 p{
     color: red;
-    border: 1px solid powderblue;
+    border: 2px solid powderblue;
+    margin: 40px;
 }
