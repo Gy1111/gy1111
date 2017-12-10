@@ -19,3 +19,13 @@ p{
     border: 2px solid powderblue;
     margin: 40px;
 }
+
+ol {
+    background: yellow;
+    padding: 20px;
+}
+
+ul {
+    background: orange;
+    padding: 20px;
+}
