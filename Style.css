@@ -21,11 +21,13 @@ p{
 }
 
 ol {
+    color: red;
     background: yellow;
     padding: 20px;
 }
 
 ul {
-    background: orange;
+    color: red;
+    background: yellow;
     padding: 20px;
 }
