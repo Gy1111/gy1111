@@ -11,6 +11,13 @@ ul {
 li {
     display: inline;
 }
+		
+		 ol { counter-reset: item; }
+        ol li { display: block; }
+        ol li:before {
+            content: counter(item) ". ";
+            counter-increment: item;
+            color: white
 </style>	
 	
 	</head>
