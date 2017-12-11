@@ -20,13 +20,13 @@ p{
     margin: 40px;
 }
 
-ol li {
+ol li display: list-item {
     color: red;
     background: yellow;
     padding: 20px;
 }
 
-ul li {
+ul li display: list-item {
     color: red;
     background: yellow;
     padding: 20px;
