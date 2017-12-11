@@ -20,13 +20,13 @@ p{
     margin: 40px;
 }
 
-ol {
+ol li {
     color: red;
     background: yellow;
     padding: 20px;
 }
 
-ul {
+ul li {
     color: red;
     background: yellow;
     padding: 20px;
