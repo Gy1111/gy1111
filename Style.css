@@ -18,6 +18,12 @@ h2 {
     border-bottom: 2px solid white;
 }
 
+h2 {
+    font-family: Arial sans-serif;
+    color: Green;
+    border-bottom: 2px solid white;
+}
+
 img {
     display: block;
     margin: auto;
