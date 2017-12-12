@@ -18,6 +18,12 @@ h2 {
     border-bottom: 2px solid white;
 }
 
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
 p{
     color: red;
     border: 2px solid powderblue;
