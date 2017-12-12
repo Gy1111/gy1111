@@ -34,5 +34,7 @@ ul li display: list-item {
     color: red;
     background: yellow;
     li::before {content: "•"; color: red}
+    display: inline-block; width: 1em;
+    margin-left: -1em}
     padding: 20px;
 }
