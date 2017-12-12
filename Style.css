@@ -33,5 +33,6 @@ ol li display: list-item {
 ul li display: list-item {
     color: red;
     background: yellow;
+    li::before {content: "•"; color: red}
     padding: 20px;
 }
