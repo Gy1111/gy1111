@@ -4,9 +4,6 @@ body {
 
 menu, ol, ul, li {
     list-style: none;
-    li::before {content: "•"; color: red;
-  display: inline-block; width: 1em;
-  margin-left: -1em
 }
 
 h1 {
@@ -25,6 +22,16 @@ p{
     color: red;
     border: 2px solid powderblue;
     margin: 40px;
+}
+
+li {
+  padding-left: 1em; 
+  text-indent: -.7em;
+}
+
+li::before {
+  content: "• ";
+  color: red; /* or whatever color you prefer */
 }
 
 ol li display: list-item {
